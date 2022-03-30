@@ -38,10 +38,10 @@ App screens are just any screen that doesn't really have anything to do with the
 
 I use the app Mockup on the iPad to do very rough designs of my screens, and I've designed 3 screens so far, which you can view below.
 
-![Default Pokédex Screen](/images/defaultpokedexscreen.png)
+![Default Pokédex Screen](/images/defaultpokedexscreen.PNG)
 This is a pretty simple screen that just shows all the Pokémon in a classic iOS list style. Each list item has the Pokémon's sprite as well as name and types. You can tap on any Pokémon to go to a detail screen.
 
-![Evolution Pokédex Screen](/images/evolutionpokedexscreen.png)
+![Evolution Pokédex Screen](/images/evolutionpokedexscreen.PNG)
 This is another version of the above screen, but it shows the Pokémon in their evolutionary chains, as well as the level they normally evolve at. You can still tap on any Pokémon to go to its detail screen.
 
 ![Pokémon Detail Screen](/images/pokemondetailscreen.png)
