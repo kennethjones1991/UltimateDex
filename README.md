@@ -31,7 +31,7 @@ The design pattern and frameworks I will use to build this app are:
 The Pokédex screen designs are finished (nevermind, see notes below). I also updated the type effect area on the Pokémon detail screen. And last, I designed the first Walkthrough screen. You can see those updates and new screen designs below.
 
 ![Type Effect Area](/images/typeeffects.PNG)
-I wanted the data in this section to look more related to each other, so I added the box and borders. You can see the previous design from yesterday's update below.
+The data in this section looked a little less unified than I wanted it to, so I added the box and borders. You can see the previous design from yesterday's update below.
 
 ![Sprite Screen](/images/spritescreen.PNG)
 This screen appears when you tap on the sprite on the Pokémon detail screen. It just shows all versions of the sprite from the specific game you are viewing. Now that I think about it, I should probably have that game selector still hovering at the top. I'll update the design to include that later.
