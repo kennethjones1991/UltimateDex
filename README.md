@@ -45,6 +45,7 @@ This screen is the main screen that appears when you go to the Walkthrough tab. 
 ## Next Steps
 - Finish Pokédex screen designs
     - Pokémon Location Detail screen
+    - Update sprite screen and location screen to include game selector
 - Design Walkthrough screens
 
 ## Previous Updates
