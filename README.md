@@ -20,14 +20,25 @@ The design pattern and frameworks I will use to build this app are:
 ### Gen 1 Progress (Red, Blue, and Yellow)
 | Design🎨 | Build🖥 | Test📱 | Release🥹 |
 | --- | --- | --- | --- |
-| 1(but actually 0)/7 Complete | 0/5 Complete | 0/4 Complete | 0/4 Complete |
+| 1/7 Complete | 0/5 Complete | 0/4 Complete | 0/4 Complete |
 
 ### Gen 1 Design Progress
 | Pokédex Screens | Walkthrough Screens | MoveDex Screens | MapDex Screens | App Themes | App Screens | Gather/Create |
 | --- | --- | --- | --- | --- | --- | --- |
-| ✅All 5 screens designed✅‼️I GUESS NOT... see below‼️ | 1 screen designed, idk how many to go | Not started | Not started | Not started | Not started | Not started |
+| ✅All 6 screens designed✅ | 1 screen designed, 0/15 objects designed | Not started | Not started | Not started | Not started | Not started |
 
-## Latest Update - Thursday, March 31, 2022
+## Latest Update - Tuesday, April 26, 2022
+I updated a few of the previous screen designs to include that game selector. I won't show them but just know they are updated. I was designing the walkthrough screen and realized I actually need to break it up into the different parts and design each one and then just decide how to lay it all out. Below is the list of objects I need to design for my walkthroughs.
+
+![Walkthrough Objects](/images/walkthroughobjects.png)
+
+## Next Steps
+- Design Walkthrough objects
+
+## Previous Updates
+### (in reverse chronological order)
+
+### Thursday, March 31, 2022
 The Pokédex screen designs are finished (nevermind, see notes below). I also updated the type effect area on the Pokémon detail screen. And last, I designed the first Walkthrough screen. You can see those updates and new screen designs below.
 
 ![Type Effect Area](/images/typeeffects.PNG)
@@ -41,15 +52,6 @@ This screen appears when you tap on View Map in the Pokémon detail screen. The 
 
 ![Walkthrough Main Screen](/images/walkthroughmainscreen.PNG)
 This screen is the main screen that appears when you go to the Walkthrough tab. It allows you to select which part of the game you are at to go to a detailed walkthrough.
-
-## Next Steps
-- Finish Pokédex screen designs
-    - Pokémon Location Detail screen
-    - Update sprite screen and location screen to include game selector
-- Design Walkthrough screens
-
-## Previous Updates
-### (in reverse chronological order)
 
 ### Wednesday, March 30, 2022
 Since this is also the first update, I'll talk about my progress up to this point.
